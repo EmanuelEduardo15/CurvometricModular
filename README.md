@@ -20,6 +20,6 @@ Este repositório contém um modelo matemático e numérico para:
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU_USUARIO/CurvometricModular.git
+git clone https://github.com/EmanuelEduardo15/CurvometricModular.git
 cd CurvometricModular
 pip install -r requirements.txt
